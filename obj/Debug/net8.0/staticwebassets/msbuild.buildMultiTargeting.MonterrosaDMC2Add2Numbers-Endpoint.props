@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MonterrosaDMC2Add2Numbers-Endpoint.props" />
+</Project>
