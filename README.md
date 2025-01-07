@@ -12,5 +12,5 @@ Utilize Postman to facilitate the data retrieval process.
 + mm/dd/yyyy - DM - short description
 - 01/06/2025 - DM - Created git repository.
 
-Peer Reviewed By:
-> Comments: 
+Peer Reviewed By: Brock Spacek
+> Comments: Everything works as intended and outputs the user's added numbers!
