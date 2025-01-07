@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonterrosaDMC2Add2Numbers-Endpoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee96bec77f4cf52361716cfb67f08f8a6ef8bf8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonterrosaDMC2Add2Numbers-Endpoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonterrosaDMC2Add2Numbers-Endpoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
